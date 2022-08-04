@@ -6,7 +6,7 @@ Git Bash
 $ git init
 we observe two changes after this command 
 1.it will create .git folder in the working directory
-2. and it will as master branch
+2. and it will make it as master branch
 How to configure username and email for git
 $ git config --global   user.name "archanareddyse"
 $ git config --global   user.email  “archanareddycse@gmail.com”
